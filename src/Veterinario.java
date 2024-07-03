@@ -28,6 +28,5 @@ public class Veterinario {
     public void Diagnostico(String diagnostico,String nombreCliente, String apellidocliente, String nombreMascota,int matricula) {
 
         this.diagnostico = diagnostico;
-
     }
 }
